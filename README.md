@@ -22,3 +22,17 @@ Developed a normalized relational database system using Microsoft Access to mana
 - Query development
 - Data validation
 - Structured data management
+
+## Database Design Screenshots
+
+### Parent Table (Design View)
+![Parent Table](parent-table-design.png)
+
+### Child Table (Design View)
+![Child Table](Child-table-design.png)
+
+### Relationship Diagram
+![Relationships](Parent-Child-Relationships.png)
+
+### SQL Query Example
+![SQL Query](Project SQL.png)
